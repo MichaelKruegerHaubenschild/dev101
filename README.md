@@ -1,8 +1,5 @@
 # Developer 101
 
-In diesem Repo befindet sich Dokumentation und Code zu unserem Kurs
-
-
 ## Warum?
 Das Ziel ist es, Basiswissen im Bereich der Software Entwicklung zu etablieren, damit wir unsere Rollen besser wahrnehmen können.
 
