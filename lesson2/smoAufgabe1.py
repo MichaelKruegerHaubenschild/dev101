@@ -1,4 +1,3 @@
-import sys
 import datetime
 
 
@@ -20,7 +19,7 @@ if int(p) == 39:
 print
 c = raw_input("Did you celebrate your birthday this year already? (y/n): ")
 
-#calculate his year of birth
+#calculate user's year of birth
 if c == "y":
     print "Congratulations!"
     birth = datetime.datetime.now().year - int(p)
