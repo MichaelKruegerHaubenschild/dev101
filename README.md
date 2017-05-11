@@ -1,5 +1,7 @@
 # Developer 101
 
+Mein Passwort ist *jkashdlkjhkljahsd*
+
 ## Warum?
 Das Ziel ist es, Basiswissen im Bereich der Software Entwicklung zu etablieren, damit wir unsere Rollen besser wahrnehmen können.
 
