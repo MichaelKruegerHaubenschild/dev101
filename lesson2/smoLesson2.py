@@ -43,9 +43,9 @@ else:
     print "Don't forget to invite me. " * userAge
     userAge = userAge + 1
         
-yearOfBirth = datetime.datetime.now().year - userAge
+celebrate100 = datetime.datetime.now().year + 100 - userAge
     
   
 # print out the year of 100th birthday
 # task 1 of lesson 2
-print "\n" + userName + ", your 100th birthday is in " + str(yearOfBirth + 100) + ".\n\nSee you at your party!\n\n"
+print "\n" + userName + ", your 100th birthday is in " + str(celebrate100) + ".\n\nSee you at your party!\n\n"
