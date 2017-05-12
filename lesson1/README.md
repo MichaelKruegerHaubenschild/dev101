@@ -19,7 +19,7 @@ Bitte folgende Kommandos ausführen um Fehlermeldungen zu unterdrücken und hand
 ```
 git config --global user.name "<vorname>"
 git config --global user.email <email>
-git config --global branch.autosetuprebase always
+git config --global pull.rebase true
 ```
 
 # Hilfe!
