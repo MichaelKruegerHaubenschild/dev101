@@ -4,7 +4,7 @@
 
 while True: ## ist eine Endlosschleife
 	try:
-		age = input ("Bitte gib Dein Alter ein: ")
+		age = raw_input ("Bitte gib Dein Alter ein: ")
 		age = int(age)
 		if age <0:
 			print ("Die Zahl muss groesser 0 sein! Versuche es noch ein Mal!")
@@ -21,7 +21,7 @@ else:
 
 while True:
 	try:
-		bday_happen = input ("Hattest Du schon Geburtstag (j/n)   ")
+		bday_happen = raw_input ("Hattest Du schon Geburtstag (j/n)   ")
 		if bday_happen in ['j','n']:
 			if age == 0 and bday_happen =='n':
 				print ("Du bist 0 Jahre alt, aber existent, ergo hattest Du schon Geburtstag!") # Corner Case
@@ -41,5 +41,5 @@ if bday_happen =='j':
 	hundreds_bday = 100-age+2017
 else:
 	hundreds_bday = 100-age+2016
-print ("Dein Hundertster Geburtstag ist im Jahr  ",hundreds_bday)
+print ("Dein Hundertster Geburtstag ist im Jahr  " + str(hundreds_bday))
 
