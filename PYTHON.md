@@ -20,7 +20,7 @@ Umwandlungen:
 http://www.python-kurs.eu/python3_operatoren.php
 
 | Operator | Name |
-|--|--|--|
+|--|--|
 | +, - |	Addition, Subtraktion	|
 | *, %	| Multiplikation, Rest |
 | <, <=, >, >=, !=, == | Vergleichsoperatoren |
