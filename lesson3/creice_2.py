@@ -27,7 +27,7 @@ while True:
 			print ("Das Ergebnis ist ") + str(ergebnis)
 			break
 		elif operator == 2: 
-			ergebnis = first_number/second_number
+			ergebnis = float(first_number)/float(second_number)
 			print ("Das Ergebnis ist ") + str(ergebnis)
 			break
 		else:
