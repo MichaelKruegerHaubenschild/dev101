@@ -27,4 +27,16 @@ http://www.python-kurs.eu/python3_operatoren.php
 | or, and, not	| Boolsches Oder, Boolsches Und, Boolsches Nicht |
 
 ## If else
+```
+if x < 0:
+  x = 0
+  print 'Negative changed to zero'
+elif x == 0:
+  print 'Zero'
+elif x == 1:
+  print 'Single'
+else:
+  print 'More'
+```
+
 Siehe: https://docs.python.org/2/tutorial/controlflow.html
