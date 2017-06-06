@@ -13,5 +13,5 @@ def greet(name):
     return 1
 
 greet('caspar')
-keks = greet('crhis')
+keks = greet('chris')
 print keks
