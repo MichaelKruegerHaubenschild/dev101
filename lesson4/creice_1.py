@@ -6,5 +6,5 @@ number1 = int(raw_input ("Bitte gib eine Zahl ein: "))
 number2 = int(raw_input ("Bitte gib eine andere Zahl ein: "))
 number3 = int(raw_input ("Bitte gib eine dritte Zahl ein: "))
 
-ergebnis = gib_max(number1,number2,number3)
+ergebnis = gib_max(number1, number2, number3)
 print ergebnis 
