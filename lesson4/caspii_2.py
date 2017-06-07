@@ -10,6 +10,7 @@ print "Ich habe 2 random Ints ausgewaehlt: " + str(num1) + " und " + str(2)
 def ask_question():
     # Diese Funktion musst du erweitern
     print "Die Funktion wurde erfolgreich aufgerufen"
+    print "---"
 
 # Die Funktion wird 4 mal aufgerufen. Ab hier nichts mehr aendern.
 ask_question()

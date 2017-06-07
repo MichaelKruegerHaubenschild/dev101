@@ -1,10 +1,10 @@
 # Aufgabe 1
-Schreib eine Funktion, die 3 Argumente nimmt, und das maximale Argument returned
+Schreibe eine Funktion, die 3 Argumente nimmt, und das maximale Argument returned
 
 Bsp: `my_max(34, 98, 4)`
 
 # Aufgabe 2
-SchreibE ein Skript, was
+Schreibe ein Skript, was
 * **4** einfache Additionsaufgaben stellt und
 * die Antwort des Nutzers auswertet.
 
@@ -25,9 +25,10 @@ Richtig!
 ----
 ```
 Dabei folgendes beachten:
-2. Nimm mein Beispiel-Skript als Grundlage: `caspii_2.py`. Das Skript umbenennen und dann ausführen.
-1. Erst nach dem umbenennen das Skript erweitern, damit Du es nicht aus versehen für andere überschreibst!
-1. Um die Aufgabe zu lösen, brauchst Du eine Python-Funktion, die Zufallszahlen generiert. Das wird Dir im Skript gezeigt, außerdem importieren wir zum ersten Mal ein Modul.
-3. Es sollen 4 Aufgaben gestellt werden und das soll über 4 Methoden-Aufrufe erfolgen. In dem Beispiel-Skript ist ersichtlich, wie ich mir das vorstelle. Einfach das Skript mal ausführen!
+
+1. Nimm mein Beispiel-Skript als Grundlage: `caspii_2.py`. Das Skript umbenennen und dann ausführen.
+2. Erst nach dem umbenennen das Skript erweitern, damit Du es nicht aus versehen für andere überschreibst!
+3. Um die Aufgabe zu lösen, brauchst Du eine Python-Funktion, die Zufallszahlen generiert. Das wird Dir im Skript gezeigt, außerdem importieren wir zum ersten Mal ein Modul.
+4. Die 4 Aufgaben sollen über 4 Funktions-Aufrufe erfolgen. In dem Beispiel-Skript ist ersichtlich, wie ich mir das vorstelle.
 
 Bei Fragen, fragen!
