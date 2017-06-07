@@ -2,9 +2,9 @@
 
 * `git clone <repo>`: Kommando um Repo auf Deinen Rechner zu bekommen.
 * `git status`: Wie ist der Status meines lokalen Repos?
-* `git add <filename>`: Geänderte Datei(en) in Staging Area sammeln.
+* `git add <filename oder verzeichnis>`: Geänderte Datei(en) in Staging Area sammeln.
 * `git commit -m "<message>"`: Alle Dateien in Staging Area ins lokale Repo einchecken.
-* `git checkout -- <filename>`: Lokale änderungen rückgängig machen.
+* `git checkout -- <filename oder verzeichnis>`: Lokale änderungen rückgängig machen.
 * `git push`: Commits im lokalen Repo zu Remote schieben.
 * `git pull`: Commits aus dem remote Repo auf deinen Rechner bekommen.
 

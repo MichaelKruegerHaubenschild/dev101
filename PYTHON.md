@@ -5,6 +5,7 @@ Python Einführung: http://www.thomas-guettler.de/vortraege/python/einfuehrung.h
 
 | Datentyp | Code | Erklärung|
 |--|--|--|
+| Boolean	| True, False	| Boolean |
 | Integer	| `i = 1`	| Ganzzahl |
 | Float	| `f = 0.1`	| Gleitkommazahl |
 | String	| `s = 'hallo'`	| Zeichenkette |
