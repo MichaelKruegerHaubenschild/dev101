@@ -10,11 +10,14 @@ def ask_question():
     num2 = randint(1,100)
     num3 = num1 + num2
     frage = "Bitte tippe die Loesung von folgender Additionsaufgabe ein: " + str(num1) + " + " + str(num2) + "  "
-    ergebnis =input(frage)
-    if ergebnis == num3:
-        print "Richtig"
+    ergebnis = raw_input(frage)
+    if ergebnis == int:
+        if ergebnis == num3:
+            print "Richtig"
+        else:
+            print "Falsch, die richtige Antwort lautet " + str(num3)
     else:
-        print "Falsch, die richtige Antwort lautet " + str(num3)
+            print "Bitte gebe eine Zahl ein."
 
 
 ask_question()
