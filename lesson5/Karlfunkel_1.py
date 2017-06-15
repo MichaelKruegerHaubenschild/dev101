@@ -8,3 +8,10 @@ def greet(name,be_nice):
 
 print greet("Christian", True)
 print greet("Christian", False)
+
+#string und wie oft vorkommen soll
+
+def multiply(Ausgabe, a):
+    return a * Ausgabe
+
+print multiply("bla",5)
