@@ -4,8 +4,7 @@ Falls der Wert True ist, gibt die Funktion ein Kompliment zurück, falsch False,
 
 Bsp Anwendung:
 ```
-name = "Donald"
-reply = greet(name, True)
+reply = greet("Donald", True)
 print reply
 ```
 Die Ausgabe:
