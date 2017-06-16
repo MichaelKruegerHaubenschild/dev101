@@ -9,3 +9,11 @@ print reply
 ```
 Die Ausgabe:
 `"Donald, you are the best"`
+
+## Aufgabe 2
+Schreibe eine Funtkion, names `list_info` die als Eingabe eine beliebige Liste bekommt. Die Ausgabe (mittels print) ist zB:
+```
+Die Liste is 20 Elemente lang
+Das erste Element ist 7
+Das letzte Element ist 88
+```

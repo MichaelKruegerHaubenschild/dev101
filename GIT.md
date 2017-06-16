@@ -1,6 +1,6 @@
 # Wichtige Git Kommandos
 
-* `git clone <repo>`: Kommando um Repo auf Deinen Rechner zu bekommen.
+* `git clone <repo>`: Kommando um Repo auf Deinen Rechner zu bekommen. Zub Beispiel `git clone https://github.com/caspii/dev101.git`
 * `git status`: Wie ist der Status meines lokalen Repos?
 * `git add <filename oder verzeichnis>`: Geänderte Datei(en) in Staging Area sammeln.
 * `git commit -m "<message>"`: Alle Dateien in Staging Area ins lokale Repo einchecken.
