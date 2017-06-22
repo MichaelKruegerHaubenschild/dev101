@@ -29,7 +29,7 @@ print b
 Die Ausgabe wäre dann: `[9, 3, 3, 2, 0, -1]`
 
 Für diese Aufgabe braucht ihr
- * `append()` oder `remove()` je nachdem, wie ihr es löst
+ * `append()` (Tipp: neue Liste anlegen)
  * eine **for** schleife!
 
 Ihr müsst euch einlesen ;-)
