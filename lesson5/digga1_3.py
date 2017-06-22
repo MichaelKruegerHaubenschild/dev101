@@ -1,22 +1,15 @@
 def less_than_10(Numlist):
-    NewList = []
-
+    new_list = []
     for n in Numlist:
-
         if n < 10:
-            NewList.append(n)
-
-    return NewList
-
+            new_list.append(n)
+    return new_list
 
 
 def less_than_10_V2(Numlist):
-
     for n in reversed(Numlist):
-
         if n > 10:
             Numlist.remove(n)
-
     return Numlist
 
 
