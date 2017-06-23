@@ -26,8 +26,8 @@ def wechseln_strategie(spiel):
         return 0
 
 # SCHRITT 3
-# Durch Spiele Liste durch iterieren und Zaehlen,
-# welche strategie wie oft gewinnt
+# Durch Spiele-Liste durchiterieren und zaehlen,
+# welche Strategie wie oft gewinnt
 wechseln = 0
 nicht_wechseln = 0
 for spiel in spiele:
@@ -35,7 +35,7 @@ for spiel in spiele:
     nicht_wechseln = nicht_wechseln + nicht_wechseln_strategie(spiel)
 
 # SCHRITT 4
-# Ergennisse ausgeben
+# Ergebnisse ausgeben
 print "Es wurden %s Spiele gespielt" % ANZ_SPIELE
 print "  Wechseln Strategie Siege: " + str(wechseln)
 print "  Nicht wechseln Strategie Siege: " + str(nicht_wechseln)
