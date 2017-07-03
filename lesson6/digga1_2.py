@@ -34,14 +34,13 @@ def list_Vergleich(spiel, Ergebnis):
 
 def ungerade_Zahlen(spiel):
 
-    #spiel = [1,6,6,6,6,6]
     num = 0
     for e in spiel:
         if e % 2:
             num = num + 1
     #print num
     if num == 6:
-        print spiel
+        #print spiel
         return 1
     else:
         return 0
