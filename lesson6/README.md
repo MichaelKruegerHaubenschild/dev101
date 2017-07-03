@@ -15,3 +15,10 @@ Es wurden 1000000 mal gewürfelt
   7899 mal waren alle ungerade
   67 mal sind alle Zahlen vorgekommen
 ```
+
+# Aufgabe 3
+Schreib eine Funktion, die die ersten 10.000 Zahlen der Fibonnaci-Reihe ausgibt.
+
+Die Fibonacci-Folge ist die unendliche Folge von natürlichen Zahlen, die mit 0,1. Im Anschluss ergibt jeweils die Summe zweier aufeinanderfolgender Zahlen die unmittelbar danach folgende Zahl: `0,1,1,2,3,5,8,... `
+
+# Aufgabe 4
